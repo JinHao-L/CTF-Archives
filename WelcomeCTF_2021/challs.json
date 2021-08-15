@@ -1,0 +1,516 @@
+{
+    "data": {
+        "Cryptography": [
+            {
+                "category": "Cryptography",
+                "description": "Somtimes we call it chips too!\r\n\r\n- mechfrog88",
+                "files": [
+                    "/files/51c0785a61c6997a645a8ba54424d855/encrypted_flag?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjo1fQ.YRj-pw.f46jvVg4cwM22FbKBi9iqFNWBUM",
+                    "/files/95b3738e80992156e60d8eafacf1dd2d/fries.txt?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjo3fQ.YRj-pw.JRh8uynNgaayTPEyNbJmtMaL_Lo",
+                    "/files/92e1441d55b9e6ebb98099e467f0797a/fries.py?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjoxNX0.YRj-pw.mg8pe_CMxYYJ0eUkcrKhnAzfRks"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 3,
+                "name": "Fries",
+                "points": 241,
+                "solves": 39
+            },
+            {
+                "category": "Cryptography",
+                "description": "Have you ever tried eating burger in blocks?\r\n\r\n> `nc challs1.nusgreyhats.org 5210`\r\n- mechfrog88\r\n",
+                "files": [
+                    "/files/4e0153b81d4ef20d262b543744bcb6b4/server_public.py?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjozNH0.YRj-qA.CPqDbHBQdiraZ2lawKYmufpeges"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 4,
+                "name": "Burger",
+                "points": 397,
+                "solves": 25
+            },
+            {
+                "category": "Cryptography",
+                "description": "Only the best potatoes make it into our CTF!\r\n\r\n- mechfrog88\r\n",
+                "files": [
+                    "/files/d022eb46dc8598cb95037a5d96f45093/output.txt?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjo0M30.YRj-qA.RcCS61esruwvpmBlSbTwNJPlCNA",
+                    "/files/968a301db35a3b4995567a879ef6fa3b/potato.sage?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjo0NH0.YRj-qA.-kuv0ZuH4lFySEdZtL15zFoBOy4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 9,
+                "name": "Potato",
+                "points": 492,
+                "solves": 8
+            },
+            {
+                "category": "Cryptography",
+                "description": "4bites... I'm lovin' it\r\n\r\n> nc challs1.nusgreyhats.org 5211\r\n- mechfrog88",
+                "files": [
+                    "/files/8996e6448ccb754f497962f09e673d06/server_public.py?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjozNX0.YRj-qA.Z3FBgjLSRgrqQq9F_mCN_XOqrC4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 5,
+                "name": "4bites",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Cryptography",
+                "description": "Found this message beside my pasta in rome. Wonder what it means...\r\n\r\n> terlungf{J3YP0Z3_G0_PELCG0TE4CUL}\r\n\r\n- mechfrog88",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 8,
+                "name": "Pasta",
+                "points": 50,
+                "solves": 106
+            },
+            {
+                "category": "Cryptography",
+                "description": "Fish is delicious.. What about Phish?\r\n\r\n- mechfrog88",
+                "files": [
+                    "/files/b4310fd428e8e7026846d0c79e279a76/output.txt?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjoxfQ.YRj-pw.o_QmuhpOWUD_gQKDKrFkV91Wcxk",
+                    "/files/9a92193f2296946a2bab8c87a416db32/phish.py?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjo0MX0.YRj-pw.dh_pFjNOp5APVTcBvAxjZ5ti1Do"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 1,
+                "name": "Phish",
+                "points": 498,
+                "solves": 5
+            },
+            {
+                "category": "Cryptography",
+                "description": "We are offering a new snack 'hashbrown' in the menu! \r\n\r\nTry it now!\r\n\r\n- mechfrog88",
+                "files": [
+                    "/files/b471bae471613cff1008783fb55d7220/output.txt?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjo0fQ.YRj-qA.gHNEQIdD-rSC9AyH0uQAkvpFiSI",
+                    "/files/fec52bb892a15a6411dcedf1e8eea941/hashbrown.py?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjo0Mn0.YRj-qA.SF_WDo-XNbCqODMo-6GR-VLhFmk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 2,
+                "name": "Hashbrown",
+                "points": 500,
+                "solves": 2
+            }
+        ],
+        "Miscellaneous": [
+            {
+                "category": "Miscellaneous",
+                "description": "A binary file - `flag` - has been hidden in `image.png` via\r\n[LSB-Steganography](https://youtu.be/TWEXCYQKyDc)! It is known\r\nthat `flag` is 11,392 bytes large. Also, the file is spread\r\nacross the first N pixels of the image when traversing in\r\n[row-major order](https://en.wikipedia.org/wiki/Row-_and_column-major_order).\r\n\r\nCan you recover the executable and uncover the flag?",
+                "files": [
+                    "/files/812930d89504b0fb8768240c382943ee/image.png?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjozN30.YRj-qA.1V_HKd-XkgYm7LLIi_DSQfS46qA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 36,
+                "name": "Smoke and Mirrors",
+                "points": 241,
+                "solves": 39
+            },
+            {
+                "category": "Miscellaneous",
+                "description": "Free flag for everyone!\r\ngreyhats{are_you_ready_for_online_classes}\r\n\r\nJoin us on discord: https://discord.gg/7gZj43jH",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 33,
+                "name": "Sanity Check",
+                "points": 50,
+                "solves": 107
+            },
+            {
+                "category": "Miscellaneous",
+                "description": "Did you manage to log in?\r\n\r\n> `nc challs1.nusgreyhats.org 5401`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 28,
+                "name": "Bash Injection",
+                "points": 50,
+                "solves": 54
+            },
+            {
+                "category": "Miscellaneous",
+                "description": "What is a string?",
+                "files": [
+                    "/files/7149aa5afab3419541651f95491d1420/greycat.jpg?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjoxMH0.YRj-qA.WDahq9AjdJ4QWfPE5dW2NQuYdkM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 6,
+                "name": "Strings",
+                "points": 50,
+                "solves": 91
+            },
+            {
+                "category": "Miscellaneous",
+                "description": "Bzzz...\r\n\r\n>nc challs1.nusgreyhats.org 5213\r\n\r\n- mechfrog88",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 10,
+                "name": "Radio",
+                "points": 499,
+                "solves": 4
+            },
+            {
+                "category": "Miscellaneous",
+                "description": "There is a flag hidden in the discord channel, I wonder where it is?\r\n\r\nFlag formats are in the form greyhats{...} unless otherwise stated\r\n\r\nhttps://discord.gg/7gZj43jH",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 37,
+                "name": "Reading the channel",
+                "points": 50,
+                "solves": 104
+            },
+            {
+                "category": "Miscellaneous",
+                "description": "We really appreciate your feedback https://forms.gle/6YVv75ttCL83vFtY8",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 39,
+                "name": "Feedback",
+                "points": 267,
+                "solves": 34
+            }
+        ],
+        "OSINT": [
+            {
+                "category": "OSINT",
+                "description": "Now that we know the sender's username from Stalking 1. Can you help us to find the person's name and birthdate?\r\n\r\nPeople usually release this information on their social media accounts.\r\n\r\nFlag Format : greyhats{dd/mm/yyyy_FirstName_LastName}\r\n\r\n- mechfrog88\r\n",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "Stalking 2",
+                "points": 50,
+                "solves": 73
+            },
+            {
+                "category": "OSINT",
+                "description": "Someone just sent us this random-looking photo. Can you help us find the sender's username?\r\n\r\nFlag format : greyhats{username}\r\n\r\n- mechfrog88",
+                "files": [
+                    "/files/dab73e8e72396cc21915757b1eda0c02/stalking.jpg?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjoyMn0.YRj-qA.jG7IDGsVV41JK7LjVBs5lR9q10g"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 16,
+                "name": "Stalking 1",
+                "points": 50,
+                "solves": 99
+            },
+            {
+                "category": "OSINT",
+                "description": "The person's blog site that is shown on tiktok doesn't seem to load. Is the DNS working correctly?\r\n\r\n- mechfrog88",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "Stalking 3",
+                "points": 50,
+                "solves": 62
+            }
+        ],
+        "Pwn": [
+            {
+                "category": "Pwn",
+                "description": "I wrote an hexdump converter service with my friend. He said that it looked very vulnerable, and volunteered to 'fix' it. I'm not quite sure he did ...\r\n\r\nConnect via\r\n> nc challs1.nusgreyhats.org 5002\r\n---\r\n\r\nP.S. If you are new to pwn, checkout the hints",
+                "files": [
+                    "/files/9e71ce15d36e91c559ed1f3d1610182f/dist.zip?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjoxOH0.YRj-qA.SWslpCVTol7j5faokl6YMA4WhJA"
+                ],
+                "hints": [
+                    "Try to make the program crash! Use gdb or other debuggers to see why it crashed",
+                    "If jumping to `win` doesn't work, it's due to [this, extra reading!](https://stackoverflow.com/questions/54393105/libcs-system-when-the-stack-pointer-is-not-16-padded-causes-segmentation-faul) Try jumping to `win+5` instead :)"
+                ],
+                "id": 11,
+                "name": "hexdump-bof",
+                "points": 465,
+                "solves": 15
+            },
+            {
+                "category": "Pwn",
+                "description": "I take away `system`, what can you do now?\r\n\r\n> `nc challs1.nusgreyhats.org 5013`",
+                "files": [
+                    "/files/9b08f8d4965aa2d05a23cb3dd1c134ac/kidrop.tar.gz?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjo0N30.YRj-qQ.hxvoPuCl4wm66GGvcr8c7TcR4_A"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 22,
+                "name": "kidrop",
+                "points": 479,
+                "solves": 12
+            },
+            {
+                "category": "Pwn",
+                "description": "Ah, I **love** menu driven 64-bit notepad programs, I can cram so much content into them! Including flaws ...\r\n\r\n> nc challs1.nusgreyhats.org 5001\r\n---",
+                "files": [
+                    "/files/4859ae5daca32d72a09e66bf9f808e7e/dist.zip?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjo0NX0.YRj-qQ.V0S3tWPSVObRYovMSWA5pcQlaso"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 13,
+                "name": "Notepad--",
+                "points": 499,
+                "solves": 4
+            },
+            {
+                "category": "Pwn",
+                "description": "You are ready for more return-oriented programming.\r\n\r\n> `nc challs1.nusgreyhats.org 5012`",
+                "files": [
+                    "/files/943d27d86a257502cc7d0a8dd08f15c0/babyrop.tar.gz?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjoyNX0.YRj-qA.qhl86uArc1Fki9tHkiWilVH8WpE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 21,
+                "name": "babyrop",
+                "points": 454,
+                "solves": 17
+            },
+            {
+                "category": "Pwn",
+                "description": "I made a program to check if a list of numbers is distinct by sorting them then iterating over them!\r\n*Genius*, right?! Except the sort looks off ...\r\n\r\n> nc challs1.nusgreyhats.org 5000\r\n---",
+                "files": [
+                    "/files/c6cacb8480f751fe6554e76be69fdf85/dist.zip?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjoxOX0.YRj-qQ.4AIA_zREbVGZ9MRbtTLDrNKbbjc"
+                ],
+                "hints": [
+                    "Source code isn't everything. Use tools like Ghidra or IDA to see the memory layout",
+                    "Learn to use a debugger like gdb. Use extensions to improve the pwning experience e.g. [pwndbg](https://github.com/pwndbg/pwndbg), [gef](https://gef.readthedocs.io/)"
+                ],
+                "id": 12,
+                "name": "Distinct",
+                "points": 494,
+                "solves": 7
+            },
+            {
+                "category": "Pwn",
+                "description": "I heard `HashMaps` are `O(1)`, I made my own `HashMap` as a Service (HaaS), and I calculated the time complexity to be ... `O(pwn)`!?\r\n\r\n> nc challs1.nusgreyhats.org 5005\r\n---\r\n",
+                "files": [
+                    "/files/c0dc01636f5e7188617082b7fef125ac/dist.zip?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjoyMX0.YRj-qQ.YTg2NRJ7pyNIbES_VxPdKXJKsjI"
+                ],
+                "hints": [
+                    "Read up on what shellcode is. This challenge requires knowledge of x86_64 Assembly and the usage of a debugger"
+                ],
+                "id": 14,
+                "name": "O(pwn)",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "Pwn",
+                "description": "My friend said it is impossible to win this game. Time to prove him wrong :)\r\n> `nc challs1.nusgreyhats.org 5015`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 34,
+                "name": "Flag Hunter",
+                "points": 50,
+                "solves": 79
+            },
+            {
+                "category": "Pwn",
+                "description": "Begin your journey on return-oriented programming.\r\n\r\n> `nc challs1.nusgreyhats.org 5011`",
+                "files": [
+                    "/files/78b00995959cbbf665b77835e5e7d087/fetusrop.tar.gz?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjoyNH0.YRj-qQ.OXe11ekDU1uN_5NwLfzjVUyO36M"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 20,
+                "name": "fetusrop",
+                "points": 413,
+                "solves": 23
+            },
+            {
+                "category": "Pwn",
+                "description": "PIE is enabled. It is harder. But aiken dueet.\r\n\r\n> `nc challs1.nusgreyhats.org 5014`",
+                "files": [
+                    "/files/ebf4472fa9fceaf48a7cdd05d91056a7/teenrop.tar.gz?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjo0OH0.YRj-qQ.wxrm7qlDeT1dKkKS7MINsQX2QWg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 23,
+                "name": "teenrop",
+                "points": 496,
+                "solves": 6
+            }
+        ],
+        "Reverse Engineering": [
+            {
+                "category": "Reverse Engineering",
+                "description": "Aren't programs using recursion pretty wack? Just a bunch of magical bytes doing the same thing over and over and over and over \r\n\r\n- qihao\r\n\r\nP.S. **Don't use WSL1** unless you want a bad time. WSL2 should work fine.",
+                "files": [
+                    "/files/6bd141a05a53d7b1ab7a0a3782d141c2/recursion?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjoxMX0.YRj-qQ.EjPMLz606KyFBozchw4CRwksjH8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 7,
+                "name": "recursion",
+                "points": 499,
+                "solves": 4
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "Find the keys to unlock all doors. Python is easier to write but is it also easier to read?\r\n\r\n`nc challs1.nusgreyhats.org 5301`",
+                "files": [
+                    "/files/e7801e993e99e016e3136b0c79859023/doors.py?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjoyOX0.YRj-qQ.z-ixRcUOfBg7_jV5iAUS82m6v5k"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 26,
+                "name": "Doors",
+                "points": 50,
+                "solves": 81
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "##### Keep Reversing and Nobody Explodes\r\nBomb defusing, but there's no manual...? Can you still do it?\r\n\r\n> [challs1.nusgreyhats.org:5302](http://challs1.nusgreyhats.org:5302)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 35,
+                "name": "KRANE",
+                "points": 292,
+                "solves": 35
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "Use the correct keys to enter the cool castle I copied from codepen.\r\nhttp://challs1.nusgreyhats.org:5300/\r\n\r\n(The flag consists of only ASCII characters)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 25,
+                "name": "Gates",
+                "points": 50,
+                "solves": 98
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "I think this is easy. Hope you do too. Find the correct key that the program expects.",
+                "files": [
+                    "/files/049260841dc14feb89ec8339e5682b4a/easycrackme?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjo0Nn0.YRj-qQ.vy2molw0vWsSidZOqa8403C9rpQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 24,
+                "name": "easycrackme",
+                "points": 482,
+                "solves": 10
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "My sources tell me that someone has left a note on my machine. Can you please help me find it? Please run this in a vm!\r\n",
+                "files": [
+                    "/files/2c56d2123493461e5cfb9ae532579102/a_note.exe?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjozOX0.YRj-qQ.BsA8L0D4hkDaViSPA5qFcXm4fns"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 38,
+                "name": "A Note",
+                "points": 500,
+                "solves": 2
+            }
+        ],
+        "Web": [
+            {
+                "category": "Web",
+                "description": "I heard that my website is leaking some secret when a button is clicked, so I removed that button. I think it should be secure enough now.\r\n\r\n> http://challs1.nusgreyhats.org:5217/\r\n\r\n",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 32,
+                "name": "No Submit Security",
+                "points": 50,
+                "solves": 85
+            },
+            {
+                "category": "Web",
+                "description": "People like large file hosting service, but I created a tiny file hosting service, hope you also like it =)\r\n\r\n[challs1.nusgreyhats.org:5207](http://challs1.nusgreyhats.org:5207)",
+                "files": [
+                    "/files/d99f83792ba52e11e034d087188a3267/setup.sh?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjozMH0.YRj-qQ.MqexR-E0YZlzuZnmdEWWYyr2Vko",
+                    "/files/3987517b51f141111183c52836b7cd13/setup-cron?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjozMX0.YRj-qQ.sv6eBnZOHrRPsk-DNnPBn1d6QFA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 27,
+                "name": "Tiny File Hosting",
+                "points": 499,
+                "solves": 4
+            },
+            {
+                "category": "Web",
+                "description": "Tired of writing ur own resume? Try our website which can help you generate one!\r\n\r\n> [http://challs2.nusgreyhats.org:5227/](http://challs2.nusgreyhats.org:5227/) ",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 31,
+                "name": "Resume",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Web",
+                "description": "I made a Covid Tracker to see track how many Covid cases are around. I'm hoping I get **injected** with the vaccine soon.\r\n\r\n[challs1.nusgreyhats.org:5201](http://challs1.nusgreyhats.org:5201/)",
+                "files": [
+                    "/files/d79498f53ede154a2907084698b05e33/index.js?token=eyJ1c2VyX2lkIjoxMjAsInRlYW1faWQiOjk4LCJmaWxlX2lkIjo0OX0.YRj-qg.ohkdnVcRAszYkOeU2_nMKQIaPic"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 15,
+                "name": "Covid Tracker",
+                "points": 50,
+                "solves": 68
+            },
+            {
+                "category": "Web",
+                "description": "Building my ketchup startup at http://challs1.nusgreyhats.org:5208/\r\n\r\n",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "No Ketchup, Just Sauce",
+                "points": 120,
+                "solves": 47
+            }
+        ]
+    },
+    "title": "WelcomeCTF 2021",
+    "url": "https://ctfd.nusgreyhats.org"
+}
