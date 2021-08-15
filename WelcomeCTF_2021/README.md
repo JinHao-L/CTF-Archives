@@ -6,6 +6,14 @@ Organised by NUS Greyhats
 * 37 Challenges
 * 109 Teams
 
+# Team
+## Team Name: **Team 3.1**
+Members: 
+* Jin Hao
+* Yi En
+* Marcus
+* Mabel
+
 # Result
 Ranking: **6th** place
 <br/>
@@ -19,12 +27,3 @@ Total Solves: **27**
 * **3/7** Cryptography
 * **6/7** Misc
 * **3/3** OSINT
-
-
-# Team
-## Team Name: **Team 3.1**
-Members: 
-* Jin Hao
-* Yi En
-* Marcus
-* Mabel
