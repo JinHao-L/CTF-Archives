@@ -7,9 +7,6 @@
 ## Description
 >We really appreciate your feedback https://forms.gle/6YVv75ttCL83vFtY8
 
-**Hint**
-* \-
-
 ## Solution
 
 Free flag

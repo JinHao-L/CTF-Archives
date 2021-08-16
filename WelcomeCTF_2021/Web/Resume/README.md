@@ -10,9 +10,6 @@
 >
 > [http://challs2.nusgreyhats.org:5227/](http://challs2.nusgreyhats.org:5227/)
 
-**Hint**
-* \-
-
 ## Solution
 Category: XSS, File traversal
 

@@ -9,12 +9,9 @@
 >
 >  `nc challs1.nusgreyhats.org 5401`
 
-**Hint**
-* \-
-
 ## Solution
 
-TODO
+*TODO*
 
 > username: `""`
 > 

@@ -11,9 +11,6 @@
 > 
 > \- mechfrog88"
 
-**Hint**
-* \-
-
 ## Solution
 
 ``` bash

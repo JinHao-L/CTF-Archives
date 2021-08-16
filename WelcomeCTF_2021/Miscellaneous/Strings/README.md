@@ -7,9 +7,6 @@
 ## Description
 >What is a string?
 
-**Hint**
-* \-
-
 ## Solution
 
 ``` bash

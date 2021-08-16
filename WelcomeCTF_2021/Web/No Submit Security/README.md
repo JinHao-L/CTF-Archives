@@ -9,9 +9,6 @@
 > 
 > http://challs1.nusgreyhats.org:5217/
 
-**Hint**
-* \-
-
 ## Solution
 Category: Web, HTML
 

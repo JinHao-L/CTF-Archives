@@ -11,9 +11,6 @@
 > 
 > \- mechfrog88
 
-**Hint**
-* \-
-
 ## Solution
 
 ROT13 using [CyberChef](https://gchq.github.io/CyberChef/)

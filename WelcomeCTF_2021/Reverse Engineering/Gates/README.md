@@ -11,9 +11,6 @@
 > 
 > (The flag consists of only ASCII characters)
 
-**Hint**
-* \-
-
 ## Solution
 
 A typical web-based reverse engineering challenge. 

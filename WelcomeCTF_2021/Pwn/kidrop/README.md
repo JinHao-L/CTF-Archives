@@ -9,10 +9,7 @@
 > 
 > `nc challs1.nusgreyhats.org 5013`
 
-**Hint**
-* \-
-
 ## Solution
-TODO
+*TODO*
 ### Flag
 

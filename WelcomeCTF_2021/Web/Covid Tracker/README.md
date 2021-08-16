@@ -9,9 +9,6 @@
 > 
 > [challs1.nusgreyhats.org:5201](http://challs1.nusgreyhats.org:5201/)
 
-**Hint**
-* \-
-
 ## Solution
 Category: SQL Injection
 

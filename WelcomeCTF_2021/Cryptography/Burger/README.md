@@ -11,12 +11,9 @@
 > 
 > \- mechfrog88
 
-**Hint**
-* \-
-
 ## Solution
 
-TODO
+*TODO*
 
 ### Flag
 `greyhats{B3lanJa_m3_Burg3R_1f_y0u_3njoyed_7he_Ch@ll3n93}`

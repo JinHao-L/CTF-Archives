@@ -13,12 +13,9 @@
 > 
 > Can you recover the executable and uncover the flag?
 
-**Hint**
-* \-
-
 ## Solution
 
-TODO
+*TODO*
 
 1. run solve.py
 1. Put outputBin.txt into Cyberchef

@@ -10,9 +10,6 @@ Flag formats are in the form greyhats{...} unless otherwise stated
 > 
 > https://discord.gg/7gZj43jH
 
-**Hint**
-* \-
-
 ## Solution
 
 Join the discord~

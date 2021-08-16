@@ -9,9 +9,6 @@
 > 
 > [challs1.nusgreyhats.org:5207](http://challs1.nusgreyhats.org:5207)
 
-**Hint**
-* \-
-
 ## Solution
 Category: File injection, TOCTOU
 

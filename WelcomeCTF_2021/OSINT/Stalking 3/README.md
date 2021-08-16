@@ -9,9 +9,6 @@
 > 
 > \- mechfrog88"
 
-**Hint**
-* \-
-
 ## Solution
 ``` bash
 dig sitdownnow.tk TXT

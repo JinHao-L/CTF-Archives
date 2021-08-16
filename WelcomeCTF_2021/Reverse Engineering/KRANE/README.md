@@ -10,9 +10,6 @@
 > 
 > [challs1.nusgreyhats.org:5302](http://challs1.nusgreyhats.org:5302)
 
-**Hint**
-* \-
-
 ## Solution
 Topic: Web assembly (WASM) reverse engineering
 

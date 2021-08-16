@@ -11,9 +11,6 @@
 > 
 > \- mechfrog88"
 
-**Hint**
-* \-
-
 ## Solution
 
 See [creator's solution](https://github.com/NUSGreyhats/welcome-ctf-2021/blob/main/Challenges/Cryptography/4bites/sol.py)

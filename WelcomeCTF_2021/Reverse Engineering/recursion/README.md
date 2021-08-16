@@ -10,9 +10,6 @@
 > 
 > P.S. **Dont use WSL1** unless you want a bad time. WSL2 should work fine
 
-**Hint**
-* \-
-
 ## Solution
 
 ### Flag

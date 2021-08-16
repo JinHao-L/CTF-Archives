@@ -9,9 +9,6 @@
 > 
 > `nc challs1.nusgreyhats.org 5301`
 
-**Hint**
-* \-
-
 ## Solution
 
 For this challenge, there are 4 parts (doors) with each doors requiring a specific passcode. The file `doors.py` provides the source code for the 4 parts.

@@ -10,9 +10,6 @@
 > 
 > \- mechfrog88"
 
-**Hint**
-* \-
-
 ## Solution
 
 See [creators' solution](https://github.com/NUSGreyhats/welcome-ctf-2021/blob/main/Challenges/Cryptography/hashbrown/sol.py)

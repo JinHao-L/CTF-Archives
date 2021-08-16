@@ -11,9 +11,6 @@
 > 
 > Join us on discord: https://discord.gg/7gZj43jH
 
-**Hint**
-* \-
-
 ## Solution
 
 Just read the description

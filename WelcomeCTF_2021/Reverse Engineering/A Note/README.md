@@ -8,9 +8,6 @@
 
 > My sources tell me that someone has left a note on my machine. Can you please help me find it? Please run this in a vm!
 
-**Hint**
-* \-
-
 ## Solution
 Category: Dll injection, Logic Bomb malware
 
