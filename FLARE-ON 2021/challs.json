@@ -1,0 +1,50 @@
+{
+    "data": {
+        "Flare-On 8": [
+            {
+                "category": "Flare-On 8",
+                "description": "We need your help with a ransomware infection that tied up some of our critical files. Good luck.\r\n\r\n7-zip password: flare",
+                "files": [
+                    "/files/268f6f46d4bcc9f6cacbd95ccd3c4a15/02_known.7z?token=eyJ1c2VyX2lkIjoxMjY2LCJ0ZWFtX2lkIjpudWxsLCJmaWxlX2lkIjo2fQ.YULKIw.p_tgDD8eSa5gJbgjEQT7KRSQD98"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 2,
+                "name": "02 - known",
+                "points": 1,
+                "solves": null
+            },
+            {
+                "category": "Flare-On 8",
+                "description": "Welcome to Flare-On 8! This challenge surves as your tutorial mission for the epic quest you are about to emark upon. Reverse engineer the Javascript code to determine the correct username and password the web page is looking for and it will show you the flag. Enter that flag here to advance to the next stage. All flags will be in the format of valid email addresses and all end with \"@flare-on.com\".\r\n\r\n7-zip password: flare",
+                "files": [
+                    "/files/1671d5f9794d9b68e793cd1cc91dc760/01_credchecker.7z?token=eyJ1c2VyX2lkIjoxMjY2LCJ0ZWFtX2lkIjpudWxsLCJmaWxlX2lkIjozfQ.YULKIg.aRWPdI3zzElqmTYMi7BdQASK8FQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 1,
+                "name": "01 - credchecker",
+                "points": 1,
+                "solves": null
+            },
+            {
+                "category": "Flare-On 8",
+                "description": "To solve this challenge, you'll need to ...AAARGH\r\n\r\n7-zip password: flare",
+                "files": [
+                    "/files/7adb430f8bf5bd5446645038cfe66816/03_antioch.7z?token=eyJ1c2VyX2lkIjoxMjY2LCJ0ZWFtX2lkIjpudWxsLCJmaWxlX2lkIjo1fQ.YULKIw.RZ7ZYjrPlAVitg8bY1x5bbSksgE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 4,
+                "name": "03 - antioch",
+                "points": 1,
+                "solves": null
+            }
+        ]
+    },
+    "title": "FLARE-ON 2021",
+    "url": "https://2021.flare-on.com"
+}
