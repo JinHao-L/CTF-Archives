@@ -1,0 +1,315 @@
+{
+    "data": {
+        "binary": [
+            {
+                "category": "binary",
+                "description": "During your training, you found a fellow spaceman-in-training. Hiding in a dark corner, he seem to be alive yet aloof. Hugging his knee close to the chest with his head tuck down, he mumbled \"find the password... find the pass.. find th pass.. fithpass..\"\r\n\r\nAuthor: Bing Zhong",
+                "files": [
+                    "/files/2e677b8b6eadf996de05466536384db4/FreeAirpodGen_test?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjE3fQ.Ym6QWw.AyBxRsWsG1RRjcIB2qs5iqzHxIM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 15,
+                "name": "FreeBie",
+                "points": 77,
+                "solves": 27
+            },
+            {
+                "category": "binary",
+                "description": "A few meters away from the man, you spotted a large note. It says \"Free us! Quit when you're done! FREE US!\"\r\n\r\nAuthor: Eugene Tan",
+                "files": [
+                    "/files/98cf24c7ec610aadcab82f99510aaf28/Large-NotesRUs?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjE5fQ.Ym6QWw.lXFW_YUQ72i32mYgAmdCPfjvL6I",
+                    "/files/ebd01ea56f1a854df2fe5fed7126b343/ld.so.2?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjIwfQ.Ym6QWw.kyMlu22nWDhPG2E_ysW0MRKrJdg",
+                    "/files/b9b529d4f41f76a1355891c88e45b0eb/libc.so.6?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjIxfQ.Ym6QWw.gJcOcbtzW1lMJ1NtPSW0uB47idc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "FreeUs",
+                "points": 200,
+                "solves": 3
+            },
+            {
+                "category": "binary",
+                "description": "Hoping to get a clearer look on his face, you approach the man and tap his shoulder. He shot up and burst into screams! \"FILTHY PASSON!, DONT YOU TOUCH ME!!!\" He shove you back to the ground and slowly sat down with his legs to his chest. As he slowly tuck his head, he mumbered \"find the password..\"\r\n\r\nAuthor: Ng Bing Zhong",
+                "files": [
+                    "/files/cc34be8038f0783029af91304c49340d/FreeAirpodGen?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjE4fQ.Ym6QWw.8J9I79DZOH1AuPvK7RKMXjjp2E4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 16,
+                "name": "FreeMe",
+                "points": 183,
+                "solves": 16
+            }
+        ],
+        "cryptography": [
+            {
+                "category": "cryptography",
+                "description": "Apart from reaching the planet, populating the planet under our Motherland's flag is equally important. Your crew must lead 100 colonists to establish your state's foothold before all others. Coordinates are given to you locked by an SSH key. Hmm.. what to do? whaaat toooo doooooo :)\r\n\r\nAuthor: Ng Bing Zhong\r\n\r\nAlternate Host: keeper@52.221.216.127:5002",
+                "files": [
+                    "/files/acd604a3486b8f125330ff9dd3cc97d7/id_rsa?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjMxfQ.Ym6QWw.4_FjW8lSIGicnotbDtR8kWd-XLQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 4,
+                "name": "Study space colonisation",
+                "points": 40,
+                "solves": 39
+            },
+            {
+                "category": "cryptography",
+                "description": "Your crew will be subjected to an endurance test to ensure you can survive the 1,400 light year trip via a 88-hour simulated flight. No one can intense such a long simulation without food and water. Yet, a SSH private key is given to you. If only you can decipher the message that is encrypted in DES and input the safe word. Pineapple juice? \ud83c\udf4d\r\n\r\nMessage:\r\n5ed0b9428aa782f5830fcbaf2731c7d95aeca05cd0ad789e282806d86d02c362abe4ed3d98b6ad39\r\n\r\nAuthor: Ng Bing Zhong",
+                "files": [
+                    "/files/1e0c3dca22bd41442cddb5b646b9cc25/id_rsa?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjEwfQ.Ym6QWw.nGiCMAYv2dgEkpr0V2ouCZORvB0"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 3,
+                "name": "Long duration flight test",
+                "points": 77,
+                "solves": 27
+            }
+        ],
+        "feedback": [
+            {
+                "category": "feedback",
+                "description": "Thanks for completing Major 1! We would love your feedback.",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 30,
+                "name": "Cyber League Feedback",
+                "points": 0,
+                "solves": 0
+            }
+        ],
+        "forensics": [
+            {
+                "category": "forensics",
+                "description": "To root out spies, an encrypted PCAP file is given to each team. It is encrypted with the motherland's key. Only a true soldier will know! Are you the spy?!\r\n\r\nAuthor: Yong Wen",
+                "files": [
+                    "/files/ff2d057fe14c2f312681adc43cc576e6/network_traffic.pcapng?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjMyfQ.Ym6QWw.PgYJLdZ-0dbA_7_9KCjmu6Ngy4w"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 14,
+                "name": "Conduct endurance training",
+                "points": 300,
+                "solves": 0
+            },
+            {
+                "category": "forensics",
+                "description": "One of our fellow operators has sent a secret transmission. We managed to get 70% of the message, I wonder if you can figure out the rest.\r\n\r\nAuthor: Hades95200",
+                "files": [
+                    "/files/545fb48fbaef04f854d07b4587d59627/kekster.png?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjEyfQ.Ym6QWw.qkviHzj1FB2ZDtFqxJ0kFDiwiSs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 9,
+                "name": "Simulated space combat",
+                "points": 90,
+                "solves": 42
+            },
+            {
+                "category": "forensics",
+                "description": "A file has been leaked out from the higher-ups, and it is rumored to contain chairman mao's little red book, which is the space politics bible that we will ever need.\r\n\r\nAuthor: Wan Qing",
+                "files": [
+                    "/files/39e77ba0b878f6df7fb13bb70ac940b8/hello_there.7z?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjExfQ.Ym6QWw.XvPQZ64gjmpN1xuVTvYMuJaB7wQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 7,
+                "name": "Understand space politics",
+                "points": 50,
+                "solves": 75
+            },
+            {
+                "category": "forensics",
+                "description": "Each team is given a file to mess with. Fix it within the time limit and prove your worth to the motherland!\r\n\r\nAuthor: Yong Wen",
+                "files": [
+                    "/files/f338c9c73b90808a68e7547fd24b04c8/file?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjMwfQ.Ym6QWw.mDj1-tHwD9zQLG7ld4Bd0Yz9uN8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 6,
+                "name": "Physical and Mental test",
+                "points": 64,
+                "solves": 36
+            }
+        ],
+        "miscellaneous": [
+            {
+                "category": "miscellaneous",
+                "description": "Say goodbye (or good riddance) to everyone you know and love. \r\n\r\nNote: Compatible with all galaxy devices.\r\n\r\nAuthor: Hakkasuru",
+                "files": [
+                    "/files/702170e37ae72863930e5e53dfd60bc1/peekaboo_Setup_1.0.1.exe?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjZ9.Ym6QWw.4qyQDfiA_jvIX00QcgItpcukXkE",
+                    "/files/319f039b6a60cc454335c3ac25e9b219/peekaboo-1.0.1.AppImage?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjd9.Ym6QWw.mSAjPxZoAOZxk-AzNvu_VyqYAuo",
+                    "/files/73835404bc2ef799923ef6fb17cfeba2/peekaboo-1.0.1.dmg?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjh9.Ym6QWw.l2oFr4EfimB16cXSTLvWxLjSnCw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 1,
+                "name": "Write farewell letters",
+                "points": 25,
+                "solves": 51
+            }
+        ],
+        "mobile": [
+            {
+                "category": "mobile",
+                "description": "As a soldier from the Motherland, being captured only makes you a laughing stock. This will train you to capture enemies, and guide you on how your hostages should be treated according to the law of the Motherland. All enemies are equipped with a bodycam APK. You will learn to decompile and locate sensitive information. \"I spy with my little eye\".\r\n\r\nAuthor: Wang Qing",
+                "files": [
+                    "/files/8d5356e055080d7c48f5189f7512643d/little_eye.apk?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjE2fQ.Ym6QXA.hj4iLgb4V7gGgluHhXuv8heADcU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 13,
+                "name": "Prisoner of war training",
+                "points": 283,
+                "solves": 14
+            }
+        ],
+        "reverse engineering": [
+            {
+                "category": "reverse engineering",
+                "description": "The recognised imaginary boundary of space is about 99.8km. A calculator application is used to transmit a confidential message. A secret code is used to decrypt the message, let's see if you can find it.\r\n\r\nAuthor: Joshua Wee Wei En",
+                "files": [
+                    "/files/0a963616e0861ec7591409036939393c/calc.zip?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjMzfQ.Ym6QXA.P_GjzSk19KGWTUHIZZGHwFqKMTg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 12,
+                "name": "Conduct parachuting from high altitude",
+                "points": 300,
+                "solves": 1
+            }
+        ],
+        "smart contract": [
+            {
+                "category": "smart contract",
+                "description": "The funds are lost somewhere on this platform. Find the missing funds from draftdown labs. We need it to fund our mission. Use our script to validate the transaction.\r\n\r\n> Note: No brute force or fuzzing is needed for the search! Just use your eyes.\r\n\r\n>Use CYBERLEAGUE{} flag format\r\n\r\nAuthor: Draftdown Labs",
+                "files": [
+                    "/files/17afc4fd1d4e19c8b8929c6ce966a050/check_txn.py?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjl9.Ym6QXA.5JEYA6IWryhiC6Z-prJhwM36c5s"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 2,
+                "name": "Space Contract",
+                "points": 300,
+                "solves": 0
+            }
+        ],
+        "steganography": [
+            {
+                "category": "steganography",
+                "description": "Imposters!!! Two identical images were transmitted hoisting our motherland's flag. There can only be one vessel with our glorious flag! Determine the imposter, shoot at sight!\r\n\r\nAuthor: Yong Wen",
+                "files": [
+                    "/files/6aee21767300a129dd293d090901619f/captured_image.png?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjEzfQ.Ym6QXA.H7YF5RymKZVxlSmKmPbB2d-3YNw",
+                    "/files/a9d9adee0f5b7df35aef7b0cb7b275ab/original_image.png?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjE0fQ.Ym6QXA.BzU5sKj7UHG_5iFCKcfpBvmgL7Y"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 11,
+                "name": "Simulated abandon vessel",
+                "points": 200,
+                "solves": 2
+            }
+        ],
+        "trivia": [
+            {
+                "category": "trivia",
+                "description": "Snaps Game Edition\r\n\r\nThis value is unique to possibly identify operating systems (Linux : 64, Windows : 128) \r\n\r\nToday is the last day of Major 1 \ud83e\udd72\r\nsnap snap snap \r\nMy my I\u2019m sad\r\nsnap snap\r\nTime to hussle for the remaining 9 hours\r\nsnap snap snap snap \r\nLove CTF challenges \r\nsnap snap snap \r\nVery sad that Major 1 is ending\r\nsnap snap!\r\n\r\nHow to play:\r\nhttps://imgur.com/a/RnYKHKI\r\n\r\nAnswer format: CYBERLEAGUE{this_is_the_answer}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 27,
+                "name": "Trivia 2",
+                "points": 10,
+                "solves": 74
+            },
+            {
+                "category": "trivia",
+                "description": "Who is the inventor of Secure Shell (SSH)?\r\n\r\nAnswer Format: CYBERLEAGUE{this_is_the_answer}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 28,
+                "name": "Trivia 1",
+                "points": 10,
+                "solves": 85
+            }
+        ],
+        "web": [
+            {
+                "category": "web",
+                "description": "A new HTML station is in progress to process your fuel. Due to the ongoing war between cossacks and baltic hoomans, some HTML sub stations are inaccessible. For sake of clarity, some warnings signs has been set up as well. Dont try to snoop pass that! \r\n\r\nAuthor: Aizuddin",
+                "files": [],
+                "hints": [
+                    "history teaches us the greatest lessons"
+                ],
+                "id": 8,
+                "name": "Simulated refuel mission",
+                "points": 198,
+                "solves": 6
+            },
+            {
+                "category": "web",
+                "description": "You know what's worse than a bomb? FAILURE TO CONTAIN ONE! You're going to contain and eliminate any bomb, explosive or the tiniest spark in under a minute.\r\n\r\nAuthor: Hades95200",
+                "files": [],
+                "hints": [
+                    "You need to defuse the bomb.\n\nCHECK OUT /defuse"
+                ],
+                "id": 5,
+                "name": "Simulated bomb drill",
+                "points": 82,
+                "solves": 24
+            },
+            {
+                "category": "web",
+                "description": "Halfway through the journey, your team received a distress call from a friendly lunar base codenamed \"SEETF\". You dispatched a taskforce in a pigeon aircraft to further investigate the cause.\r\n\r\nFlag is admin's launch code.\r\n\r\nAuthor: zeyu2001 @ SEE",
+                "files": [
+                    "/files/4d31b6614f42f2c269b195659ca6f051/launch.zip?token=eyJ1c2VyX2lkIjo0MSwidGVhbV9pZCI6MTUsImZpbGVfaWQiOjI4fQ.Ym6QXA.fclDEL_gamvRYUodmhw5LBgyhVw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 26,
+                "name": "Pigeon Aircraft Takeoff",
+                "points": 200,
+                "solves": 3
+            },
+            {
+                "category": "web",
+                "description": "Sit tight, put on your seat belt... and test our API system. Seriously? What were you expecting?\r\n\r\nAuthor: Hades95200",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 10,
+                "name": "Simulated blast-off",
+                "points": 160,
+                "solves": 26
+            }
+        ]
+    },
+    "title": "Cyber League",
+    "url": "https://earth2.cyberleague.co"
+}

@@ -14,6 +14,12 @@ The purpose of this repository is not actually for my write-ups but rather for m
 If I have the time, I may start writing up a writeup blog. But thats prob for the future
 
 ## Past CTFs
+### 2022
+
+CTF | Date | Type | Position | Team
+--|--|--|--|--|
+Cyber League Major 1 | 30 Apr | Jeopardy | 8th | TeamHalfDay
+
 ### 2021
 
 CTF | Date | Type | Position | Team
